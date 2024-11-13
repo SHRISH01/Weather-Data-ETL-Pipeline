@@ -125,7 +125,7 @@ S3_BUCKET_NAME=your_s3_bucket_name
 <hr>
 
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project is licensed under the Apache License 2.0.</p>
 
 <hr>
 
