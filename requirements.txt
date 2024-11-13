@@ -1,2 +1,5 @@
+airflow
+astro
+docker
 boto3
 requests
